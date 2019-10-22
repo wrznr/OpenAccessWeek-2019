@@ -264,6 +264,18 @@ count: false
     + Einsatz in unzähligen Apps, Forschungsprojekten, privaten Kontexten
 - kostenlos verwendbar, quelloffen entwickelt
 <center><img src="img/tesseract_github.png" width="800px"/></center>
+- Lizenzmodell erlaubt kommerziellen Einsatz
+
+---
+
+# Tesseract - Geschichte
+
+- **1985 bis 1994**: Entwicklung bei Hewlett Packard (hauptsächlich von Ray Smith)
+- **1998**: C++-Port
+- **2005**: Open-Source-Veröffentlichung
+- **2006 bis 2017**: Weiterentwicklung gefördert von Google
+- **2008**: Migration nach GitHub
+- **2018**: Weiterentwicklung vollständig auf den Schultern der Nutzergemeinde
 
 ---
 
