@@ -71,6 +71,7 @@ count: false
 
 .cols[
 .sixty[
+- Bilderfassung ≠ Texterfassung
 - **O**ptical **C**haracter **R**ecognition: Automatische Erfassung von Text in Bildern
 - ursprünglich begrenzt auf Zeichenerkennung
 - heute häufig Synonym für den gesamten Texterfassungsprozess
@@ -258,6 +259,11 @@ count: false
 ---
 
 # Tesseract
+
+- mit großem Abstand: verbreitetste OCR-Software
+    + Einsatz in unzähligen Apps, Forschungsprojekten, privaten Kontexten
+- kostenlos verwendbar, quelloffen entwickelt
+<center><img src="img/tesseract_github.png" width="800px"/></center>
 
 ---
 
