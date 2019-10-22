@@ -6,7 +6,7 @@ layout: true
   <table>
     <tr>
       <td style="text-align:right">Sächsische Landesbibliothek – Staats- und Universitätsbibliothek</td>
-      <td>06.06.19</td>
+      <td>25.10.19</td>
       <td style="text-align:right"><a href="https://www.slub-dresden.de/">www.slub-dresden.de</a></td>
     </tr>
     <tr>
@@ -265,6 +265,7 @@ count: false
 - kostenlos verwendbar, quelloffen entwickelt
 <center><img src="img/tesseract_github.png" width="800px"/></center>
 - Lizenzmodell erlaubt kommerziellen Einsatz
+    + (Teil-)Grund für Erfolg?
 
 ---
 
@@ -275,6 +276,7 @@ count: false
 - **2005**: Open-Source-Veröffentlichung
 - **2006 bis 2017**: Weiterentwicklung gefördert von Google
 - **2008**: Migration nach GitHub
+- **2016**: Umstieg auf neuronale Netze als primäre Datenstruktur für Texterkennung
 - **2018**: Weiterentwicklung vollständig auf den Schultern der Nutzergemeinde
 
 ---
