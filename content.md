@@ -331,6 +331,24 @@ Single options:
 
 ---
 
+# Hands-on - Anwendung
+
+- Prinzipielle Kommandostruktur
+```
+tesseract EINGABEBILD AUSGABE (OPTIONEN) (AUSGABEKONFIGURATION)
+```
+- einfachster Aufruf
+```
+$ tesseract sample.png -
+```
+    + `-` schickt die Ergebnisse nach `stdout`
+    + Modell `eng` per default ausgewählt
+    + Konfiguration `txt` per default ausgewählt
+<center><img src="img/sample.png" width="300px"/></center>
+
+
+---
+
 class: part-slide
 
 # Vielen Dank für Ihre Aufmerksamkeit!
