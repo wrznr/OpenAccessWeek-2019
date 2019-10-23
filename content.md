@@ -363,6 +363,25 @@ The Lazy Dog
 
 ---
 
+# Hands-on - Optionen
+
+- Modellauswahl
+    + Option `-l MODELLNAME`
+    + Datei `MODELLNAME.traineddata` nötig
+    + eventuell in Kombination mit `--tessdata-dir`
+    + Kombination mehrerer Modelle möglich: `-l MODELLNAME+MODELLNAME2+MODELLNAME3`
+- Segmentierung
+    + Option `-psm MODUS`
+    + Liste verfügbarer Optionen via `--help-psm`
+    + Möglichkeit einzelne Absätze, Zeilen oder gar Wörter zu verarbeiten
+- Bildauflösung
+    + wichtiger Faktor für Ergebnisqualität
+    + idealerweise min. 300 dpi
+    + unter Umständen Teil der Metadaten, anonsten: `Warning: Invalid resolution 0 dpi. Using 70 instead.`
+    + manuell per `--dpi` setzbar
+
+---
+
 class: part-slide
 
 # Vielen Dank für Ihre Aufmerksamkeit!
