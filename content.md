@@ -283,6 +283,8 @@ count: false
 
 # Tesseract - Funktionsumfang
 
+- Texterkennung ⊂ OCR
+
 ---
 
 class: part-slide
@@ -378,6 +380,19 @@ The Lazy Dog
     + idealerweise min. 300 dpi
     + unter Umständen Teil der Metadaten, anonsten: `Warning: Invalid resolution 0 dpi. Using 70 instead.`
     + manuell per `--dpi` setzbar
+
+---
+
+# Hands-on - Konfigurationen
+
+- nur wenige Einstellungen als CLI-Optionen verfügbar
+- feingranulare Anpassungsmöglichkeiten per Konfigurationsdatei
+- per default unter `/usr/share/tessdata/configs`
+    + `txt`: Rohtext (default)
+    + `alto`: ALTO-XML
+    + `hocr`: hOCR (HTML-artig)
+    + **`pdf`**: PDF
+    + ...
 
 ---
 
