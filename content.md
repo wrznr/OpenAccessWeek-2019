@@ -344,7 +344,20 @@ $ tesseract sample.png -
     + `-` schickt die Ergebnisse nach `stdout`
     + Modell `eng` per default ausgewählt
     + Konfiguration `txt` per default ausgewählt
-<center><img src="img/sample.png" width="300px"/></center>
+
+.cols[
+.sixty[
+The Quick Brown
+Fox Jumps Over
+The Lazy Dog
+]
+.fourty[
+<center>
+<img src="img/sample.png" width="300px" />
+<p style="font-size:4pt;">Image by Peter J. Acklam, public domain</p>
+</center>
+]
+]
 
 
 ---
