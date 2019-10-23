@@ -366,13 +366,12 @@ The Lazy Dog
 # Hands-on - Optionen
 
 - Modellauswahl
-    + Option `-l MODELLNAME`
-    + Datei `MODELLNAME.traineddata` nötig
+    + Option `-l MODELLNAME`, Datei `MODELLNAME.traineddata` nötig
     + eventuell in Kombination mit `--tessdata-dir`
-    + Kombination mehrerer Modelle möglich: `-l MODELLNAME+MODELLNAME2+MODELLNAME3`
+    + Kombination mehrerer Modelle möglich:
+      `-l MODELLNAME+MODELLNAME2+MODELLNAME3`
 - Segmentierung
-    + Option `-psm MODUS`
-    + Liste verfügbarer Optionen via `--help-psm`
+    + Option `-psm MODUS` (Liste verfügbarer Optionen via `--help-psm`)
     + Möglichkeit einzelne Absätze, Zeilen oder gar Wörter zu verarbeiten
 - Bildauflösung
     + wichtiger Faktor für Ergebnisqualität
