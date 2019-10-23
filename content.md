@@ -347,9 +347,11 @@ $ tesseract sample.png -
 
 .cols[
 .sixty[
+```
 The Quick Brown
 Fox Jumps Over
 The Lazy Dog
+```
 ]
 .fourty[
 <center>
@@ -358,7 +360,6 @@ The Lazy Dog
 </center>
 ]
 ]
-
 
 ---
 
