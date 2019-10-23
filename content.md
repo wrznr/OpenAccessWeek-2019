@@ -281,14 +281,53 @@ count: false
 
 ---
 
-class: part-slide
-count: false
-
-# Tesseract auf der Kommandozeile
+# Tesseract - Funktionsumfang
 
 ---
 
-# Tesseract auf der Kommandozeile
+class: part-slide
+count: false
+
+# Hands-on
+
+---
+
+# Hands-on
+
+- Teil praktisch aller **Linux**distributionen
+    + Installation auf MacOS per `Homebrew` und `MacPorts` möglich
+    + Installation unter Windows per [Installer](https://github.com/UB-Mannheim/tesseract/wiki) möglich
+- Zugriff auf Tesseract per
+    + Programmierschnittstelle (API)
+    + **Kommandozeilenschnittstelle** (CLI)
+    + graphische Benutzeroberfläche (GUI, Drittanbieter)
+- Erkennunsgmodelle für zahlreiche Sprachen bzw. Schriften vorhanden
+    + teilweise als installierbare Pakete
+    + empfehlenswert jedoch Download von [GitHub](https://github.com/tesseract-ocr/tessdata_best)
+
+---
+
+# Hands-on - Installation
+
+Cf. [https://github.com/tesseract-ocr/tesseract/wiki](https://github.com/tesseract-ocr/tesseract/wiki#installation)
+
+```shell
+$ tesseract --help
+Usage:
+  tesseract --help | --help-extra | --version
+  tesseract --list-langs
+  tesseract imagename outputbase [options...] [configfile...]
+
+OCR options:
+  -l LANG[+LANG]        Specify language(s) used for OCR.
+NOTE: These options must occur before any configfile.
+
+Single options:
+  --help                Show this help message.
+  --help-extra          Show extra help for advanced users.
+  --version             Show version information.
+  --list-langs          List available languages for tesseract engine.
+```
 
 ---
 
