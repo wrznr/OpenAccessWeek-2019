@@ -1028,7 +1028,29 @@ count: false
 <center>
 <img src="img/otsu.svg" />
 </center>
-<p style="font-size:1.4rem">
+]
+.fifty[
+<center>
+<img src="img/wolf.svg" />
+</center>
+]
+]
+---
+
+count: false
+
+# Tipps und Tricks
+
+- Primärer Fokus von Tesseract: Texterkennung
+    + kaum (Weiter-)Entwicklung im Bereich Bildvorverarbeitung und Layouanalyse
+    + Verbesserung der Erkennungsgüte durch externe, ggf. manuelle Optimierung möglich!
+    + `Scantailor`: Programm zur (semi-)automatischen Bildoptimierung für OCR
+    + `olena`: umfangreiche Bibliothek zur Dokumentenverarbeitung
+        * enthält mehrere Binarisierungsverfahren
+        * (Tesseract-eigene Binarisierung ist sehr schlecht)
+.cols[
+.fifty[
+<p style="font-size:1.1rem">
 Zuletzt wird anders nichts dara<span style="color:red">n</span>s/<br/>
 Di<span style="color:red">r</span> <span style="color:red">z</span>acke<span style="color:red">1</span> dieser Erden <span style="color:red">r ’’</span><br/>
 Die Sonne/Kind<span style="color:red">r</span>r/Fre<span style="color:red">nu</span>d’ vnd Hauß<br/>
@@ -1038,10 +1060,7 @@ Der stre<span style="color:red">u</span>genSch<span style="color:red">n</span>ld
 </p>
 ]
 .fifty[
-<center>
-<img src="img/wolf.svg" />
-</center>
-<p style="font-size:1.4rem">
+<p style="font-size:1.1rem">
 Zuletzt wird anders nichts dara<span style="color:red">n</span>s/<br/>
 Die Fackel dieser Erden<br/>
 Die Sonne/Kinder/Fren<span style="color:red">n</span>nd’ vnd Hauß<br/>
