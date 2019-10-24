@@ -401,7 +401,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/binarization_in.svg" width="300px" />
+<img src="img/binarization_in.svg" width="320px" />
 </center>
 ]
 ]
@@ -421,7 +421,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/binarization_out.svg" width="300px" />
+<img src="img/binarization_out.svg" width="320px" />
 </center>
 ]
 ]
@@ -442,7 +442,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/binarization_out.svg" width="300px" />
+<img src="img/binarization_out.svg" width="320px" />
 </center>
 ]
 ]
@@ -484,7 +484,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/deskewing_out.svg" width="300px" />
+<img src="img/deskewing_out.svg" width="250px" />
 </center>
 ]
 ]
@@ -502,11 +502,11 @@ count: false
         * Beschneidung auf Druckbereich
         * Binarisierung
         * Begradigung
-	* ...
+        * ...
 ]
 .fourty[
 <center>
-<img src="img/deskewing_out.svg" width="300px" />
+<img src="img/deskewing_out.svg" width="250px" />
 </center>
 ]
 ]
@@ -524,7 +524,7 @@ count: false
         * Beschneidung auf Druckbereich
         * Binarisierung
         * Begradigung
-	* ...
+        * ...
     + Layoutanalyse
 ]
 .fourty[
@@ -547,7 +547,7 @@ count: false
         * Beschneidung auf Druckbereich
         * Binarisierung
         * Begradigung
-	* ...
+        * ...
     + Layoutanalyse
         * Seitensegmentierung
 ]
@@ -571,7 +571,7 @@ count: false
         * Beschneidung auf Druckbereich
         * Binarisierung
         * Begradigung
-	* ...
+        * ...
     + Layoutanalyse
         * Seitensegmentierung
 ]
@@ -594,14 +594,14 @@ count: false
     + Bildoptimierung
         * Beschneidung auf Druckbereich
         * Binarisierung
-	* Begradigung
-	* ...
+        * Begradigung
+        * ...
     + Layoutanalyse
         * Seitensegmentierung
 ]
 .fourty[
 <center>
-<img src="img/zonned.jpg" width="300px" />
+<img src="img/zonned.png" width="300px" />
 </center>
 ]
 ]
@@ -618,33 +618,8 @@ count: false
     + Bildoptimierung
         * Beschneidung auf Druckbereich
         * Binarisierung
-	* Begradigung
-	* ...
-    + Layoutanalyse
-        * Seitensegmentierung
-        * Segmentklassifizierung
-]
-.fourty[
-<center>
-<img src="img/zonned.jpg" width="300px" />
-</center>
-]
-]
-
----
-
-count: false
-
-# Tesseract - Funktionsumfang
-
-.cols[
-.sixty[
-- Texterkennung ⊂ OCR
-    + Bildoptimierung
-        * Beschneidung auf Druckbereich
-        * Binarisierung
-	* Begradigung
-	* ...
+        * Begradigung
+        * ...
     + Layoutanalyse
         * Seitensegmentierung
         * Segmentklassifizierung
@@ -668,8 +643,33 @@ count: false
     + Bildoptimierung
         * Beschneidung auf Druckbereich
         * Binarisierung
-	* Begradigung
-	* ...
+        * Begradigung
+        * ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+]
+.fourty[
+<center>
+<img src="img/zonned.jpg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+        * Begradigung
+        * ...
     + Layoutanalyse
         * Seitensegmentierung
         * Segmentklassifizierung
@@ -693,8 +693,8 @@ count: false
     + Bildoptimierung
         * Beschneidung auf Druckbereich
         * Binarisierung
-	* Begradigung
-	* ...
+        * Begradigung
+        * ...
     + Layoutanalyse
         * Seitensegmentierung
         * Segmentklassifizierung
@@ -718,8 +718,8 @@ count: false
     + Bildoptimierung
         * Beschneidung auf Druckbereich
         * Binarisierung
-	* Begradigung
-	* ...
+        * Begradigung
+        * ...
     + Layoutanalyse
         * Seitensegmentierung
         * Segmentklassifizierung
