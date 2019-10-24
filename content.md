@@ -283,7 +283,105 @@ count: false
 
 # Tesseract - Funktionsumfang
 
+.cols[
+.sixty[
 - Texterkennung ⊂ OCR
+]
+.fourty[
+<center>
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+]
+.fourty[
+<center>
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+]
+.fourty[
+<center>
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+]
+.fourty[
+<center>
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+]
+.fourty[
+<center>
+<img src="img/cropping_in.svg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+]
+.fourty[
+<center>
+<img src="img/cropping_out.svg" width="300px" />
+</center>
+]
+]
 
 ---
 
