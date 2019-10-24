@@ -401,7 +401,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/binarization_in.svg" width="250px" />
+<img src="img/binarization_in.svg" width="300px" />
 </center>
 ]
 ]
@@ -421,7 +421,70 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/binarization_out.svg" width="250px" />
+<img src="img/binarization_out.svg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+	* Begradigung
+]
+.fourty[
+<center>
+<img src="img/binarization_out.svg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+	* Begradigung
+]
+.fourty[
+<center>
+<img src="img/deskewing_in.svg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+	* Begradigung
+]
+.fourty[
+<center>
+<img src="img/deskewing_out.svg" width="300px" />
 </center>
 ]
 ]
