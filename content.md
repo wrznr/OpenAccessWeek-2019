@@ -1008,6 +1008,53 @@ qpdf --empty --pages DresPh-0[0-9].pdf.tif.pdf -- DresPh.pdf
 ---
 
 class: part-slide
+count: false
+
+# Tipps und Tricks
+
+---
+
+# Tipps und Tricks
+
+- Primärer Fokus von Tesseract: Texterkennung
+    + kaum (Weiter-)Entwicklung im Bereich Bildvorverarbeitung und Layouanalyse
+    + Verbesserung der Erkennungsgüte durch externe, ggf. manuelle Optimierung möglich!
+    + `Scantailor`: Programm zur (semi-)automatischen Bildoptimierung für OCR
+    + `olena`: umfangreiche Bibliothek zur Dokumentenverarbeitung
+        * enthält mehrere Binarisierungsverfahren
+        * (Tesseract-eigene Binarisierung ist sehr schlecht)
+.cols[
+.fifty[
+<center>
+<img src="img/otsu.svg" />
+</center>
+<p style="font-size:1.4rem">
+Zuletzt wird anders nichts dara<span style="color:red">n</span>s/<br/>
+Di<span style="color:red">r</span> <span style="color:red">z</span>acke<span style="color:red">1</span> dieser Erden <span style="color:red">r ’’</span><br/>
+Die Sonne/Kind<span style="color:red">r</span>r/Fre<span style="color:red">nu</span>d’ vnd Hauß<br/>
+Muß übergeben werden/ <span style="color:red">’’</span><br/>
+Denn di<span style="color:red">r</span>Nat<span style="color:red">n</span>r erlässt vns<span style="color:red">’ mehr ’</span><br/>
+Der stre<span style="color:red">u</span>genSch<span style="color:red">n</span>ld <span style="color:red">o</span>ndPflich<span style="color:red">r</span>.
+</p>
+]
+.fifty[
+<center>
+<img src="img/wolf.svg" />
+</center>
+<p style="font-size:1.4rem">
+Zuletzt wird anders nichts dara<span style="color:red">n</span>s/<br/>
+Die Fackel dieser Erden<br/>
+Die Sonne/Kinder/Fren<span style="color:red">n</span>nd’ vnd Hauß<br/>
+Muß übergeben werden/<br/>
+Denn de<span style="color:red">e</span>Na<span style="color:red">in</span>r erlässt vns nicht<br/>
+Der strengen Schuld vndPflicht.
+</p>
+]
+]
+
+---
+
+class: part-slide
 
 # Vielen Dank für Ihre Aufmerksamkeit!
 
