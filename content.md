@@ -269,7 +269,7 @@ count: false
 
 ---
 
-# Tesseract - Geschichte
+# Tesseract – Geschichte
 
 - **1985 bis 1994**: Entwicklung bei Hewlett Packard (hauptsächlich von Ray Smith)
 - **1998**: C++-Port
@@ -281,7 +281,7 @@ count: false
 
 ---
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -297,7 +297,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -314,7 +314,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -332,7 +332,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -351,7 +351,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -370,7 +370,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -390,7 +390,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -410,7 +410,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -430,7 +430,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -451,7 +451,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -472,7 +472,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -493,7 +493,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -515,7 +515,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -538,7 +538,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -562,7 +562,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -586,7 +586,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -610,7 +610,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -635,7 +635,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -660,7 +660,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -685,7 +685,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -711,7 +711,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -737,7 +737,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -763,7 +763,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -790,7 +790,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -818,7 +818,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -847,7 +847,7 @@ count: false
 
 count: false
 
-# Tesseract - Funktionsumfang
+# Tesseract – Funktionsumfang
 
 .cols[
 .sixty[
@@ -897,7 +897,7 @@ count: false
 
 ---
 
-# Hands-on - Installation
+# Hands-on – Installation
 
 Cf. [https://github.com/tesseract-ocr/tesseract/wiki](https://github.com/tesseract-ocr/tesseract/wiki#installation)
 
@@ -921,7 +921,7 @@ Single options:
 
 ---
 
-# Hands-on - Anwendung
+# Hands-on – Anwendung
 
 - Prinzipielle Kommandostruktur
 ```
@@ -953,7 +953,7 @@ The Lazy Dog
 
 ---
 
-# Hands-on - Optionen
+# Hands-on – Optionen
 
 - Modellauswahl
     + Option `-l MODELLNAME`, Datei `MODELLNAME.traineddata` nötig
@@ -971,7 +971,7 @@ The Lazy Dog
 
 ---
 
-# Hands-on - Konfigurationen
+# Hands-on – Konfigurationen
 
 - nur wenige Einstellungen als CLI-Optionen verfügbar
 - feingranulare Anpassungsmöglichkeiten per Konfigurationsdatei
