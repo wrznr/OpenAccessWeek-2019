@@ -991,6 +991,14 @@ The Lazy Dog
 ```
 $ qpdf DresPh_880545186-1993030301_01-a.pdf --split-pages DresPh.pdf
 ```
+2. Konvertierung in Bilddateien
+```
+$  for i in `find . -name "Dres*.pdf"`; do convert $i $i.tif; done
+```
+3. OCR
+```
+$ 
+```
 
 ---
 
