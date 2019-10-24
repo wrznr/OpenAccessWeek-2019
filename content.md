@@ -1073,6 +1073,19 @@ Der strengen Schuld vndPflicht.
 
 ---
 
+# Tipps und Tricks
+
+- Modelle *synthetisch* und auf modernen Texten trainiert
+    * Texterkennung basiert auf statistischen Modellen über Binärvektoren.
+    * Wahrscheinlichkeitsverteilungen werden „gelernt“.
+    * Trainingsdaten: Bild-Text-Paare von Zeilen
+        + Abschreiben von Büchern ist aufwendig!
+        + Alternative: Daten mit Hilfe von Texten und Computerschriften automatisch erzeugen
+        + für historische Daten unter Umständen nicht adäquat
+    * Trainieren kann jeder!
+
+---
+
 class: part-slide
 
 # Vielen Dank für Ihre Aufmerksamkeit!
