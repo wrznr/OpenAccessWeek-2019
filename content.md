@@ -1000,6 +1000,10 @@ $  for i in `find . -name "Dres*.pdf"`; do convert $i $i.tif; done
 $ for i in `find . -name "Dres*.pdf.tif"`; do tesseract $i $i \
     -l jpn+Japanese+deu+Latin pdf; done
 ```
+4. Zusammenführung der Einzel-PDFs
+```
+qpdf --empty --pages DresPh-0[0-9].pdf.tif.pdf -- DresPh.pdf
+```
 
 ---
 
