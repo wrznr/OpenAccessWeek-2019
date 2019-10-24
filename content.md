@@ -320,23 +320,6 @@ count: false
 .sixty[
 - Texterkennung ⊂ OCR
     + Bildoptimierung
-]
-.fourty[
-<center>
-</center>
-]
-]
-
----
-
-count: false
-
-# Tesseract - Funktionsumfang
-
-.cols[
-.sixty[
-- Texterkennung ⊂ OCR
-    + Bildoptimierung
         * Beschneidung auf Druckbereich
 ]
 .fourty[
@@ -359,7 +342,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/cropping_in.svg" width="300px" />
+<img src="img/cropping_in.svg" width="250px" />
 </center>
 ]
 ]
@@ -378,7 +361,67 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/cropping_out.svg" width="300px" />
+<img src="img/cropping_out.svg" width="250px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+]
+.fourty[
+<center>
+<img src="img/cropping_out.svg" width="250px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+]
+.fourty[
+<center>
+<img src="img/binarization_in.svg" width="250px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+]
+.fourty[
+<center>
+<img src="img/binarization_out.svg" width="250px" />
 </center>
 ]
 ]
