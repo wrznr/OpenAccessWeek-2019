@@ -626,32 +626,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/zonned.jpg" width="300px" />
-</center>
-]
-]
-
----
-
-count: false
-
-# Tesseract - Funktionsumfang
-
-.cols[
-.sixty[
-- Texterkennung ⊂ OCR
-    + Bildoptimierung
-        * Beschneidung auf Druckbereich
-        * Binarisierung
-        * Begradigung
-        * ...
-    + Layoutanalyse
-        * Seitensegmentierung
-        * Segmentklassifizierung
-]
-.fourty[
-<center>
-<img src="img/zonned.jpg" width="300px" />
+<img src="img/zonned.png" width="300px" />
 </center>
 ]
 ]
@@ -728,6 +703,172 @@ count: false
 .fourty[
 <center>
 <img src="img/layout_rec.svg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+        * Begradigung
+        * ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+        * Zeilenerkennung
+]
+.fourty[
+<center>
+<img src="img/structure2.png" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+        * Begradigung
+        * ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+        * Zeilenerkennung
+]
+.fourty[
+<center>
+<img src="img/lines2.png" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+        * Begradigung
+        * ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+        * Zeilenerkennung
+    + Texterkennung
+]
+.fourty[
+<center>
+<img src="img/lines2.png" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+        * Begradigung
+        * ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+        * Zeilenerkennung
+    + Texterkennung
+        * multiple Sprachen/Schriften
+]
+.fourty[
+<center>
+<img src="img/lines2.png" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+        * Begradigung
+        * ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+        * Zeilenerkennung
+    + Texterkennung
+        * multiple Sprachen/Schriften
+        * Wortlisten
+]
+.fourty[
+<center>
+<img src="img/lines2.png" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+        * Begradigung
+        * ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+        * Zeilenerkennung
+    + Texterkennung
+        * multiple Sprachen/Schriften
+        * Wortlisten
+        * spezielle Zahlen- und Sonderzeichenbehandlung
+]
+.fourty[
+<center>
+<img src="img/lines2.png" width="300px" />
 </center>
 ]
 ]
