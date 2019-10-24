@@ -46,17 +46,17 @@ count: false
 # Überblick
 
 - Einleitung
-  + Was ist OCR?
-  + Einsatzbeispiele
-  + Tesseract
-  + Open Source?
+      + Was ist OCR?
+      + Einsatzbeispiele
+      + Tesseract
+          * Open Source?
 - Ablauf
-  + Tesseract auf der Kommandozeile
-  + Graphische Oberflächen für Tesseract
+      + Tesseract auf der Kommandozeile
+      + (Graphische Oberflächen für Tesseract)
 - Optimierungsoptionen
-  + Bildvorverarbeitung
-  + Modelltraining
-  + Nachkorrektur
+      + Bildvorverarbeitung
+      + Modelltraining
+      + (Nachkorrektur)
 
 ---
 
