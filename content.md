@@ -438,7 +438,7 @@ count: false
     + Bildoptimierung
         * Beschneidung auf Druckbereich
         * Binarisierung
-	* Begradigung
+        * Begradigung
 ]
 .fourty[
 <center>
@@ -459,7 +459,7 @@ count: false
     + Bildoptimierung
         * Beschneidung auf Druckbereich
         * Binarisierung
-	* Begradigung
+        * Begradigung
 ]
 .fourty[
 <center>
@@ -480,11 +480,254 @@ count: false
     + Bildoptimierung
         * Beschneidung auf Druckbereich
         * Binarisierung
-	* Begradigung
+        * Begradigung
 ]
 .fourty[
 <center>
 <img src="img/deskewing_out.svg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+        * Begradigung
+	* ...
+]
+.fourty[
+<center>
+<img src="img/deskewing_out.svg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+        * Begradigung
+	* ...
+    + Layoutanalyse
+]
+.fourty[
+<center>
+<img src="img/deskewing_out.svg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+        * Begradigung
+	* ...
+    + Layoutanalyse
+        * Seitensegmentierung
+]
+.fourty[
+<center>
+<img src="img/deskewing_out.svg" width="250px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+        * Begradigung
+	* ...
+    + Layoutanalyse
+        * Seitensegmentierung
+]
+.fourty[
+<center>
+<img src="img/unzonned.jpg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+	* Begradigung
+	* ...
+    + Layoutanalyse
+        * Seitensegmentierung
+]
+.fourty[
+<center>
+<img src="img/zonned.jpg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+	* Begradigung
+	* ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+]
+.fourty[
+<center>
+<img src="img/zonned.jpg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+	* Begradigung
+	* ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+]
+.fourty[
+<center>
+<img src="img/zonned.jpg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+	* Begradigung
+	* ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+]
+.fourty[
+<center>
+<img src="img/layout_rev_in.png" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+	* Begradigung
+	* ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+]
+.fourty[
+<center>
+<img src="img/layout_rec.svg" width="300px" />
+</center>
+]
+]
+
+---
+
+count: false
+
+# Tesseract - Funktionsumfang
+
+.cols[
+.sixty[
+- Texterkennung ⊂ OCR
+    + Bildoptimierung
+        * Beschneidung auf Druckbereich
+        * Binarisierung
+	* Begradigung
+	* ...
+    + Layoutanalyse
+        * Seitensegmentierung
+        * Segmentklassifizierung
+        * Zeilenerkennung
+]
+.fourty[
+<center>
+<img src="img/layout_rec.svg" width="300px" />
 </center>
 ]
 ]
