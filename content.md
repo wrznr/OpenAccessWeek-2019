@@ -269,6 +269,24 @@ count: false
 
 ---
 
+# Exkurs – OpenSource?
+
+- OpenSource ist nicht gleich OpenSource!
+    + quelloffene Software vs.
+        * öffentlich geförderte Projekte ↦ öffentlich verfügbare Projektergebnisse
+        * häufig bloßes „Abkippen“ auf GitHub
+    + Philosophie der offenen Entwicklung
+        * öffentlich von Anfang an
+        * Anschluss an vorhandene Communities
+        * Fehlermeldung und Funktionalitätsfeedback während der Laufzeit
+        * Weiterentwicklung und Pflege auch nach Ablauf der Förderung
+- - „Kulturrevolution“: **Reproducible Science**
+    + Daten (Texte etc.) veröffentlicht unter CC
+    + Methoden veröffentlicht als quelloffene Software
+    + wissenschaftliche Dokumentation veröffentlicht als *Open Access*
+
+---
+
 # Tesseract – Geschichte
 
 - **1985 bis 1994**: Entwicklung bei Hewlett Packard (hauptsächlich von Ray Smith)
