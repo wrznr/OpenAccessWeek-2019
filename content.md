@@ -280,7 +280,7 @@ count: false
         * Anschluss an vorhandene Communities
         * Fehlermeldung und Funktionalitätsfeedback während der Laufzeit
         * Weiterentwicklung und Pflege auch nach Ablauf der Förderung
-- - „Kulturrevolution“: **Reproducible Science**
+- „Kulturrevolution“: **Reproducible Science**
     + Daten (Texte etc.) veröffentlicht unter CC
     + Methoden veröffentlicht als quelloffene Software
     + wissenschaftliche Dokumentation veröffentlicht als *Open Access*
