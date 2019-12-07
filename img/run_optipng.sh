@@ -9,8 +9,8 @@
 
 for FILE in *.png;
 do
-    echo $(FILE)
-    optipng -o5 $(FILE)
+    echo ${FILE}
+    optipng -o5 ${FILE}
 done
 
 # END
