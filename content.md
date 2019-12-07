@@ -1104,6 +1104,31 @@ Der strengen Schuld vndPflicht.
 
 ---
 
+# Tipps und Tricks
+
+- ImageMagick fehlt *möglicherweise* die Berechtigung, mit .ps, .eps, .xps, oder .pdf zu arbeiten.  Dieses Problem tritt etwa in Xubuntu (18.04 LTS) auf (nicht aber in Debian 10).  Zum Hintergrund, siehe beispielsweise [https://linuxatty.wordpress.com/2018/12/12/fix-for-imagemagick-convert-errors-with-pdf-files/](https://linuxatty.wordpress.com/2018/12/12/fix-for-imagemagick-convert-errors-with-pdf-files/)
+
+- Die Lese- und Schreibberechtigungen sind neben anderen Parametern in der Datei `/etc/ImageMagick-6/policy.xml` abgelegt, die nur mit Administratorrechten änderbar ist.
+
+- Die Arbeit mit diesen Dateien wird *grundsätzlich* mit diesen Einträgen im Abschnitt `policymap` ermöglicht:
+```
+<policy domain="coder" rights="read|write" pattern="PS" />
+<policy domain="coder" rights="read|write" pattern="EPS" />
+<policy domain="coder" rights="read|write" pattern="PDF" />
+<policy domain="coder" rights="read|write" pattern="XPS" />
+<polict domain="coder" rights="read|write" pattern="SVG" />
+```
+
+- Dennoch können Dateien mit grossem Volumen von einer Bearbeitung
+ausgeschlossen sein.  Mit Rücksicht auf zur Verfügung stehenden
+Arbeitsspeicher kann die Anpassung des `memory` Parameters im gleichen
+Abschnitt lohnen, etwa in:
+```
+<policy domain="resource" name="memory" value="2GB"/>
+<policy domain="resource" name="map" value="2GB"/>
+```
+
+
 class: part-slide
 
 # Vielen Dank für Ihre Aufmerksamkeit!
