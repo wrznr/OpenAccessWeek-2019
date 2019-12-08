@@ -198,7 +198,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/transkribus.svg" width="300px" />
+<img src="img/transkribus.png" width="300px" />
 </center>
 ]
 ]
