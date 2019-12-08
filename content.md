@@ -481,7 +481,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/deskewing_in.svg" width="300px" />
+<img src="img/deskewing_in.png" width="300px" />
 </center>
 ]
 ]
