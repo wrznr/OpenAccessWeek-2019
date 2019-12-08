@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# name:    probe.svg
+# name:    probe_svg.sh
 # author:  nbehrnd@yahoo.com
 # date:    2019-12-08 (YYYY-MM-DD)
 
