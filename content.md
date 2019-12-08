@@ -360,7 +360,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/cropping_in.svg" width="250px" />
+<img src="img/cropping_in.png" width="250px" />
 </center>
 ]
 ]
