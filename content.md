@@ -81,7 +81,7 @@ count: false
   + ...
 ]
 .fourty[
-<center><img src="img/times.svg" /></center>
+<center><img src="img/times.png" /></center>
 ]
 ]
 
