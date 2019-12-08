@@ -1044,7 +1044,7 @@ count: false
 .cols[
 .fifty[
 <center>
-<img src="img/otsu.svg" />
+<img src="img/otsu.png" />
 </center>
 ]
 .fifty[
