@@ -419,7 +419,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/binarization_in.svg" width="320px" />
+<img src="img/binarization_in.png" width="320px" />
 </center>
 ]
 ]
