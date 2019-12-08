@@ -176,7 +176,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/deposit.svg" width="300px" />
+<img src="img/deposit.png" width="300px" />
 <p style="font-size:4pt;">Image by Eluminary, CC BY-SA 2.0</p>
 </center>
 ]
