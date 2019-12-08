@@ -1049,7 +1049,7 @@ count: false
 ]
 .fifty[
 <center>
-<img src="img/wolf.svg" />
+<img src="img/wolf.png" />
 </center>
 ]
 ]
