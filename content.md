@@ -99,7 +99,7 @@ count: false
 - Vorgehen in `ABBYY FineReader`
 ]
 .fourty[
-<center><img src="img/char.svg" width="300px" /></center>
+<center><img src="img/char.png" width="300px" /></center>
 ]
 ]
 
