@@ -220,7 +220,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/beauvais_0.svg" width="300px" />
+<img src="img/beauvais_0.png" width="300px" />
 <p style="font-size:4pt;">Image by Uwe Springmann, CC BY-SA 4.0</p>
 </center>
 ]
