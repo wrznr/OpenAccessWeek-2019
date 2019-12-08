@@ -694,7 +694,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/layout_rec.svg" width="300px" />
+<img src="img/layout_rec.png" width="300px" />
 </center>
 ]
 ]
@@ -720,7 +720,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/layout_rec.svg" width="300px" />
+<img src="img/layout_rec.png" width="300px" />
 </center>
 ]
 ]
