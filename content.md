@@ -379,7 +379,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/cropping_out.png" width="250px" />
+<img src="img/cropping_out.png" width="200px" />
 </center>
 ]
 ]
