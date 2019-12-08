@@ -135,7 +135,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/anpr.svg" width="300px" />
+<img src="img/anpr.png" width="300px" />
 <p style="font-size:4pt;">Image by Achim Raschka, CC BY-SA 3.0</p>
 </center>
 ]
