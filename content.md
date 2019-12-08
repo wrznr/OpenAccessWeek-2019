@@ -155,7 +155,7 @@ count: false
 ]
 .fourty[
 <center>
-<img src="img/captcha.svg" width="300px" />
+<img src="img/captcha.png" width="300px" />
 <p style="font-size:4pt;">Image by JD, CC BY-SA 2.0</p>
 </center>
 ]
